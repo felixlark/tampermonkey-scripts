@@ -43,7 +43,7 @@
 - Install URLs point at raw GitHub files in `dist/`.
 - Tampermonkey updates only when `@version` increases.
 - `npm run release:x-tweaks` is the full publish/update/proof path for `x-tweaks`.
-- Manual install handoff for `x-tweaks`: [`https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/x-tweaks.user.js`](https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/x-tweaks.user.js).
+- Manual install handoff for `x-tweaks`: [`https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/x-tweaks.user.js`](https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/x-tweaks.user.js).
 
 ## Guardrails
 

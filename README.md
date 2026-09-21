@@ -16,7 +16,7 @@ Tweaks for X/Twitter:
 Install URL:
 
 ```text
-https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/x-tweaks.user.js
+https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/x-tweaks.user.js
 ```
 
 ### `gitlab-tweaks`
@@ -30,7 +30,7 @@ Tweaks for GitLab:
 Install URL:
 
 ```text
-https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/gitlab-tweaks.user.js
+https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/gitlab-tweaks.user.js
 ```
 
 ## Repository Layout
