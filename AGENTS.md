@@ -66,3 +66,11 @@
 - Initialize dependencies inside each worktree and keep ports, databases, device/simulator state, build outputs, and ignored local config isolated per checkout.
 - Preserve existing dirty checkouts. Inspect `git status --short` before editing, and do not stash, commit, remove, or migrate user changes unless explicitly asked.
 - After merge or abandonment, clean up with `git worktree remove <path>` and use `git worktree prune` only for stale metadata.
+
+## 合并前评审
+
+合并前须等待 Codex 自动评审完成，且评审意见已全部处理清零（无未解决的阻塞性评论）之后，方可合并。不得在评审结果出来之前合并。
+
+### Pre-merge review (English translation)
+
+Before merging, wait for Codex automatic review to finish and address all review feedback, leaving no unresolved blocking comments. Do not merge before the review results are available.
