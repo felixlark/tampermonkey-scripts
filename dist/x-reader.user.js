@@ -3,11 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  Collapse X's right column by default, widen the timeline, and enlarge photos/videos, with a floating toggle button styled like X's Grok/Chat dock.
-// @author       Longbiao CHEN
-// @homepageURL  https://github.com/longbiaochen/tampermonkey-scripts#x-reader
-// @supportURL   https://github.com/longbiaochen/tampermonkey-scripts/issues
-// @updateURL    https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/x-reader.user.js
-// @downloadURL  https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/x-reader.user.js
+// @author       felixlark
+// @homepageURL  https://github.com/felixlark/tampermonkey-scripts#x-reader
+// @supportURL   https://github.com/felixlark/tampermonkey-scripts/issues
+// @updateURL    https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/x-reader.user.js
+// @downloadURL  https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/x-reader.user.js
 // @match        https://x.com/*
 // @match        https://twitter.com/*
 // @run-at       document-start

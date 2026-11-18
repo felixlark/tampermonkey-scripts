@@ -1,5 +1,5 @@
 const repository = {
-  owner: "longbiaochen",
+  owner: "felixlark",
   name: "tampermonkey-scripts"
 };
 
@@ -14,7 +14,7 @@ const scripts = [
     description:
       "Fold X's left column to a Chat-style icon rail with an expand button, keep the right column toggle, and remove the \"Live on X\" chip.",
     namespace: "http://tampermonkey.net/",
-    author: "Longbiao CHEN",
+    author: "felixlark",
     match: ["https://x.com/*", "https://twitter.com/*"],
     runAt: "document-idle",
     grant: ["none"]
@@ -29,7 +29,7 @@ const scripts = [
     description:
       "Collapse X's right column by default, widen the timeline, and enlarge photos/videos, with a floating toggle button styled like X's Grok/Chat dock.",
     namespace: "http://tampermonkey.net/",
-    author: "Longbiao CHEN",
+    author: "felixlark",
     match: ["https://x.com/*", "https://twitter.com/*"],
     runAt: "document-start",
     grant: ["none"],
@@ -44,7 +44,7 @@ const scripts = [
     homepagePath: "#gitlab-tweaks",
     description: "Quality-of-life tweaks for GitLab issue boards and project pages.",
     namespace: "http://tampermonkey.net/",
-    author: "Longbiao CHEN",
+    author: "felixlark",
     license: "GPL-3.0-only",
     match: ["*://*/*"],
     runAt: "document-idle",

@@ -3,11 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3.42
 // @description  Fold X's left column to a Chat-style icon rail with an expand button, keep the right column toggle, and remove the "Live on X" chip.
-// @author       Longbiao CHEN
-// @homepageURL  https://github.com/longbiaochen/tampermonkey-scripts#x-tweaks
-// @supportURL   https://github.com/longbiaochen/tampermonkey-scripts/issues
-// @updateURL    https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/x-tweaks.user.js
-// @downloadURL  https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/x-tweaks.user.js
+// @author       felixlark
+// @homepageURL  https://github.com/felixlark/tampermonkey-scripts#x-tweaks
+// @supportURL   https://github.com/felixlark/tampermonkey-scripts/issues
+// @updateURL    https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/x-tweaks.user.js
+// @downloadURL  https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/x-tweaks.user.js
 // @match        https://x.com/*
 // @match        https://twitter.com/*
 // @run-at       document-idle
