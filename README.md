@@ -132,5 +132,5 @@ npm run validate
 Open the local debug harness:
 
 ```bash
-open /Users/longbiao/Projects/tampermonkey-scripts/debug/index.html
+open ~/Projects/tampermonkey-scripts/debug/index.html
 ```

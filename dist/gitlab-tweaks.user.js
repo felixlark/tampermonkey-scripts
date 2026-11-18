@@ -3,11 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.8.1
 // @description  Quality-of-life tweaks for GitLab issue boards and project pages.
-// @author       Longbiao CHEN
-// @homepageURL  https://github.com/longbiaochen/tampermonkey-scripts#gitlab-tweaks
-// @supportURL   https://github.com/longbiaochen/tampermonkey-scripts/issues
-// @updateURL    https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/gitlab-tweaks.user.js
-// @downloadURL  https://raw.githubusercontent.com/longbiaochen/tampermonkey-scripts/main/dist/gitlab-tweaks.user.js
+// @author       felixlark
+// @homepageURL  https://github.com/felixlark/tampermonkey-scripts#gitlab-tweaks
+// @supportURL   https://github.com/felixlark/tampermonkey-scripts/issues
+// @updateURL    https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/gitlab-tweaks.user.js
+// @downloadURL  https://raw.githubusercontent.com/felixlark/tampermonkey-scripts/main/dist/gitlab-tweaks.user.js
 // @license      GPL-3.0-only
 // @match        *://*/*
 // @run-at       document-idle

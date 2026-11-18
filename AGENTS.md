@@ -2,7 +2,7 @@
 
 ## Repo Scope
 
-- Owner/escalation: Longbiao for managed userscript behavior and release/version proof.
+- Owner/escalation: felixlark for managed userscript behavior and release/version proof.
 - This repo owns source userscripts under `src/scripts/`, generated `dist/*.user.js` artifacts, metadata in `tampermonkey.config.mjs`, and release/update helpers.
 - Built `dist/*.user.js` files are committed release artifacts and must stay in sync with source and metadata.
 
